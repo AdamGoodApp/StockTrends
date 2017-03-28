@@ -1,0 +1,2 @@
+# StockTrends
+Calculate Stock Trends.
